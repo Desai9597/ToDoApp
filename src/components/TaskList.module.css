@@ -1,0 +1,13 @@
+.tasks{
+    display: grid;
+    list-style-type: none;
+    
+    border-radius: 1rem;
+    overflow: hidden;
+    text-align: center;
+    width: 90%;
+    max-width: 35rem;
+    min-width:fit-content;
+    /*padding: 2rem 0.5rem;
+    margin: auto;  */
+}
